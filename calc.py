@@ -9,5 +9,6 @@ class Calculator:
 
    def subtraction(self, x, y):
        return x - y
+      
    def adding(self, x, y):
        return x + y
